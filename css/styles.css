@@ -1,0 +1,111 @@
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 30pt;
+    border-color:darkgrey;
+}
+img{
+    height: 150px;
+}
+h1{
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+table{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.education{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:cadetblue;
+    font-weight: bolder;
+}
+.company:hover{
+    background-color:powderblue;
+}
+.lexture:hover{
+    background-color: aquamarine;
+    text-decoration: none;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+a:active{
+    text-decoration: none;
+}
+.hobbies{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.experience{
+    text-align: center;
+}
+.year1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.work1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
+.year2{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: medium;
+}
+.work2{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
+.year3{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: medium;
+}
+.myskills{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.form{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.upperbody{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/725/383/non_2x/city-landscape-buildings-and-architecture-silhouette-background-collage-set-vector.jpg);
+}
+
+.midbody{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/725/383/non_2x/city-landscape-buildings-and-architecture-silhouette-background-collage-set-vector.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
