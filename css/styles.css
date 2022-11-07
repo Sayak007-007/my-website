@@ -10,10 +10,11 @@ img{
 }
 h1{
     color: #66BFBF;
+    margin-top: 0%;
 }
 h2{
     color: #66BFBF;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: cursive;
     text-align: center;
 }
 table{
@@ -21,7 +22,7 @@ table{
 }
 .education{
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
 }
 a{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -90,18 +91,20 @@ a:active{
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.upperbody{
-    background-image: url(https://static.vecteezy.com/system/resources/previews/002/725/383/non_2x/city-landscape-buildings-and-architecture-silhouette-background-collage-set-vector.jpg);
-}
 
-.midbody{
+.upperbody{
+    background-color: #DEF5E5;
+}
+.midandlower{
     background-image: url(https://static.vecteezy.com/system/resources/previews/002/725/383/non_2x/city-landscape-buildings-and-architecture-silhouette-background-collage-set-vector.jpg);
     background-repeat: no-repeat;
     background-attachment:fixed;
     background-size: cover;
 }
 
-
+.lowerbody{
+    text-align: center;
+}
 
 
 
